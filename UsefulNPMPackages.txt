@@ -1,0 +1,10 @@
+Useful Node Packages:
+
+fs: file system
+http: 
+express: Initiates an instance of the middleware in which you can control routing and data transfer
+node-fetch: Asyncronous way to make promise-based API calls
+chalk: can color text easily on the console.
+progress: can create a progress bar on the console.
+readline: allows you to print and accept input from console
+Inquirer: Good package to print and read responses to and from the console.
